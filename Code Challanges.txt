@@ -11,13 +11,11 @@ Only call Print() function to display the results in the below displayed format 
 
 
 
-
 Q2. (Create a program that fulfills the following specification.)
 
 Program Specification
 
 We want to make a row of bricks that is target inches long. We have a number of small bricks (1 inch each) and big bricks (5 inches each). Make a function that prints True if it is possible to make the exact target by choosing from the given bricks or False otherwise. Take list as input from user where its 1st element represents number of small bricks, middle element represents number of big bricks and 3rd element represents the target.
-
 
 
 
